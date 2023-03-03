@@ -12,9 +12,12 @@ public class StringPermutations {
     {
         //Your code here
         ArrayList<String> arrlist= new ArrayList<String>();
-        if(S.length() == 2){
-            
-        }
+        
+    
+    
+
+
+
         return arrlist;
     }
 }
